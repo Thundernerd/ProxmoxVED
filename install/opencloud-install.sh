@@ -80,7 +80,7 @@ STORAGE_SYSTEM_OC_ROOT=${DATA_DIR}/storage/metadata
 ## Web
 WEB_ASSET_CORE_PATH=${CONFIG_DIR}/web/assets
 WEB_ASSET_APPS_PATH=${CONFIG_DIR}/web/assets/apps
-WEB_UI_CONFIG_FILE=${CONFIG_DIR}/web/config.json
+# WEB_UI_CONFIG_FILE=${CONFIG_DIR}/web/config.json
 # WEB_ASSET_THEMES_PATH=${CONFIG_DIR}/web/assets/themes
 # WEB_UI_THEME_PATH=
 
